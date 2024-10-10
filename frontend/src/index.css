@@ -1,0 +1,29 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+form {
+  max-width: 400px;
+  margin: auto;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 3px;
+  border-radius: 3px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
